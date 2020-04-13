@@ -1,0 +1,129 @@
+
+@import "theme";
+
+body.home {
+
+	.main-content {
+
+		.row {
+
+			.column {	
+				
+				br {
+
+					display: none;
+				}
+
+				h3 {
+
+					line-height: 1.4;
+
+					img {
+
+						display: inline-block;
+						margin: -20px 5px 0 -10px !important;
+					}
+				}
+			}
+		}
+	}
+}
+
+.page-title {
+
+	padding: 1em 0 1em;
+}
+
+.main-content {
+
+	padding: 2em 0 11em;
+}
+
+.featured-content { 
+
+	background: none;
+
+	.page-title {
+
+		color:#55613b88;
+	}
+}
+ 
+.toggles-wrap,
+.tabs-container {
+
+	margin-bottom: 1em;
+}
+
+.jp-interface,
+.widget-title,
+.site-header,
+.site-footer {
+
+	background-image: none;
+}
+ 
+.profile-description-label {
+
+	font-weight: 700;
+}
+
+.lessons-listing {
+
+	.lesson-item {
+
+		&:nth-child(even) { background: rgb(245, 245, 245); }
+		&:nth-child(odd) { background: rgb(253, 253, 253); }
+
+		.lesson-title,
+		.lesson-attachments {
+
+			vertical-align: top;
+			border: none;
+		}
+
+		.lesson-attachments {
+
+			display: flex;
+			padding: 10px;
+			margin: 10px 10px 0 0;
+			border-radius: 3px;
+
+			a {		
+			
+				margin: 0 0 0 0;
+				display: inline;
+			}
+
+			a + a {		
+			
+				margin: 0 0 0 10px; 
+			}
+		}
+	}
+}
+
+@media (max-width: 440px) {
+
+  body {
+
+    .main-content {
+
+      padding: 3em 0 20em;
+    }
+  }
+} 
+
+@import "register"; 
+@import "home";
+@import "header";
+@import "polylang";
+@import "slider";
+@import "courses";
+@import "experts";
+@import "user-profile";
+@import "lesson";
+@import "footer";
+@import "checkout";
+@import "shortcodes";
+@import "user-switching";

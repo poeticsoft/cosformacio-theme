@@ -1,0 +1,16 @@
+/* Media Library Folders */
+div#wp-media-grid.wrap div.media-plus-toolbar,
+div#wp-media-grid.wrap .media-plus-toolbar.media-plus-toolbar {
+  margin: 0;
+  padding: 0 20px 20px; }
+
+div#wp-media-grid.wrap #mgmlp-header {
+  display: none; }
+
+div#wp-media-grid.wrap #ft-panel {
+  position: relative;
+  width: 100%;
+  top: 0; }
+
+div#wp-media-grid.wrap #new-gallery-box, div#wp-media-grid.wrap #rename-box, div#wp-media-grid.wrap #new-folder-box {
+  max-width: none; }

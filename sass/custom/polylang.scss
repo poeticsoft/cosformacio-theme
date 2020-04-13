@@ -1,0 +1,38 @@
+
+.PolylangMenu {
+
+	float: right; 
+	list-style: none;
+	display: flex;
+
+	li {
+		
+		margin: 0;
+
+		a {
+
+			line-height: 2.35em;
+			padding: 0 10px;
+			display: block;
+			color: #fff;
+
+			span {
+
+				display: none;
+			}
+		}
+
+		&.current-lang {
+
+			a {
+
+				box-shadow: 0 1px 1px rgba(0,0,0,0.15) inset;				
+				border-radius: 3px;
+				border-bottom:1px solid rgba(255,255,255,0.2);
+				background:url(images/bgs/black_20_bg.png);
+			}
+		}
+	}
+
+	margin: 0 0 0 5px;
+}

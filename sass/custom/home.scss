@@ -1,0 +1,54 @@
+
+body.home {
+
+	.main-content {
+
+		padding: 3em 0 11em;
+
+		h2 {
+
+			border: solid #ccc;
+			border-width: 1px 0 0 0;
+			margin: 40px 0 20px;
+		}
+
+		.experts {
+
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+
+			.expert-preview {
+
+				display: block;
+				width: 30%;
+
+				.expert-meta,
+				.expert-text {
+
+					width: 100%;
+					display: block;
+				}
+
+				.expert-text {
+
+					> p{
+
+						display: none; 
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 440px) {
+
+  body.home {
+
+    .main-content {
+
+      padding: 3em 0 20em;
+    }
+  }
+} 

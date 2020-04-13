@@ -1,0 +1,10 @@
+body.login {
+  background-color: #BAC7B5; }
+
+.login h1 a {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 84px;
+  width: 70%;
+  margin: 0 auto; }

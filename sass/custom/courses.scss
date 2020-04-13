@@ -1,0 +1,35 @@
+
+.course-preview {
+
+	.course-image {
+
+		min-height: 60px;
+
+		.course-price.product-price {	
+
+			font-size: 90%;
+			
+			&.no-soci-price { 
+
+				top: 65px; 
+			}
+
+			.price-text {
+
+				padding: 0 4px 0 5px;
+				line-height: 1.4em;
+
+				.text {
+					
+					font-size: 80%;
+				}
+
+				.price {
+
+					font-weight: 700;							
+					font-size: 110%;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+ 
+ /* Media Library Folders */
+
+ div#wp-media-grid.wrap {
+	 
+	div.media-plus-toolbar, 
+	.media-plus-toolbar.media-plus-toolbar {
+
+		margin: 0;
+		padding: 0 20px 20px;
+	}
+
+	#mgmlp-header {
+
+		display: none;
+	}
+
+	#ft-panel {
+
+		position: relative;
+		width: 100%;
+		top: 0;
+
+	}
+
+	#new-gallery-box, #rename-box, #new-folder-box {
+		
+		max-width: none;
+	}
+}

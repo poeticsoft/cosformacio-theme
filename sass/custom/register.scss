@@ -1,0 +1,40 @@
+.CosRegister {
+
+	.Agree {
+
+		width: 100%;
+
+		a {
+		
+			font-weight: 700;
+		}
+
+		.field-wrapper {
+			
+			&.agree-terms,
+			&.confirm-subscriber {
+
+				margin: 0 0 20px 0;
+
+				input,
+				label { 
+
+					vertical-align: top;
+					display: inline-block;
+				}
+
+				input { 
+
+					margin-top: 7px;
+					display: inline-block;
+				}
+
+				label {
+
+					width: calc(100% - 20px);
+					padding: 0 0 0 15px;
+				}
+			}
+		}
+	}
+}

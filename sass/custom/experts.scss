@@ -1,0 +1,59 @@
+.experts {
+
+	.expert-preview {
+
+		.expert-meta {
+
+			width: 290px;
+
+			.expert-image {
+
+				a {
+
+					img {
+
+						width: 100% !important;
+					}
+				}
+			}
+		}
+
+		.expert-text {
+
+
+		}
+	}
+}
+
+@media (max-width: 767px) {
+
+	.experts {
+
+		.expert-preview {
+
+			display: block;
+	
+			.expert-meta {
+
+				display: block;
+	
+				.expert-image {
+	
+					a {
+	
+						img {
+	
+							width: 100% !important;
+						}
+					}
+				}
+			}
+	
+			.expert-text {
+				
+				display: block;	
+				padding-left: 0;
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+
+					<ul class="PolylangMenu">
+						<?php 
+
+							$Request = $wp->request;
+							$Langs = pll_the_languages(array('raw' => 1));
+							foreach($Langs as $Lang) {
+
+								$url = strpos($Request, 'register') !== false ? SITE_URL . $Lang['slug'] . '/register' : $Lang['url'];
+						?>
+							<li class="lang-item <?php 
+									if($Lang['current_lang']) { 
+								?>current-lang<?php
+								 } 
+								?> <?php 
+									if($Lang['no_translation']) { 
+								?>no-translation<?php 
+									} 
+								?>">
+								<a lang="<?php echo $Lang['slug'] ?>" 
+										hreflang="<?php echo $Lang['slug'] ?>" 
+										href="<?php echo $url ?>">
+									<?php echo $Lang['name'] ?>
+								</a>
+							</li>
+						<?php
+							}
+						?>
+					</ul>
+
+					
+					<ul class="PolylangMenu">
+						<?php 
+							pll_the_languages(
+								array(
+									'show_flags' => 0,
+									'show_names' => 1
+								)
+							); 
+						?>
+					</ul>

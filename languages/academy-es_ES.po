@@ -1,0 +1,2353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Academy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 13:52+0000\n"
+"PO-Revision-Date: 2019-04-01 12:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Loco-Parser: loco_parse_po\n"
+
+#: sidebar-profile-right.php:13
+#, php-format
+msgid "\"%s\" subscription expires in %s."
+msgstr "La suscripción \"%s\" expira en %s."
+
+#: sidebar-profile-right.php:11
+#, php-format
+msgid "\"%s\" subscription is active."
+msgstr "La suscripción \"%s\" está activa."
+
+#: woocommerce/cart/cart-totals.php:69
+#, php-format
+msgid "(taxes estimated for %s)"
+msgstr "(impuestos estimados para %s)"
+
+#: framework/config.php:675
+msgid "3 Months"
+msgstr "3 meses"
+
+#: framework/config.php:676
+msgid "6 Months"
+msgstr "6 meses"
+
+#: framework/config.php:677
+msgid "9 Months"
+msgstr "9 meses"
+
+#. Name of the theme
+msgid "Academy"
+msgstr "Academia"
+
+#: framework/config.php:1260
+msgid "Accordion"
+msgstr "Acordeón"
+
+#: framework/classes/themex.user.php:254
+msgid "Account Confirmation"
+msgstr "Confirmacion de cuenta"
+
+#: template-statistics.php:164
+msgid "Active"
+msgstr "Activo"
+
+#: template-statistics.php:81 template-statistics.php:97
+#: framework/classes/themex.course.php:1257
+msgid "Active Courses"
+msgstr "Cursos activos"
+
+#: framework/config.php:1302 framework/classes/widgets/themex.authors.php:98
+msgid "Activity"
+msgstr "Actividad"
+
+#: framework/classes/themex.form.php:280
+#: framework/classes/themex.interface.php:405
+#: framework/classes/themex.interface.php:618
+#: framework/classes/themex.interface.php:653
+#: framework/classes/themex.interface.php:693
+#: framework/classes/themex.shortcode.php:147
+msgid "Add"
+msgstr "Añadir"
+
+#: framework/config.php:614
+msgid ""
+"Add certificate content, you can use %username%, %name%, %title%, %date%, "
+"%number% and %grade% keywords"
+msgstr ""
+"Agregue el contenido del certificado, puede usar %username%, %name%, %title"
+"%, %date%, %number% y %grade% de palabras clave"
+
+#: framework/classes/themex.interface.php:818
+msgid "Add Comment"
+msgstr "Agregar comentario"
+
+#: framework/config.php:638
+msgid "Add course sidebar content, use [section] shortcode for widgets"
+msgstr ""
+"Agregue contenido de la barra lateral del curso, use [sección] código corto "
+"para widgets"
+
+#: framework/config.php:749
+msgid "Add lesson sidebar content, use [section] shortcode for widgets"
+msgstr ""
+"Agregue contenido de la barra lateral del tema, use [sección] código corto "
+"para widgets"
+
+#: framework/config.php:322 framework/config.php:348 framework/config.php:373
+#: framework/config.php:398 framework/config.php:424 framework/config.php:449
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: framework/config.php:349
+msgid "Add New Course"
+msgstr "Añadir nuevo curso"
+
+#: framework/config.php:489
+msgid "Add New Course Category"
+msgstr "Añadir nueva categoría de curso"
+
+#: framework/config.php:374
+msgid "Add New Lesson"
+msgstr "Añadir nueva lección"
+
+#: framework/config.php:323
+msgid "Add New Plan"
+msgstr "Añadir nuevo plan"
+
+#: framework/config.php:399
+msgid "Add New Quiz"
+msgstr "Añadir nuevo cuestionario"
+
+#: framework/config.php:450
+msgid "Add New Slide"
+msgstr "Añadir nueva diapositiva"
+
+#: framework/config.php:425
+msgid "Add New Testimonial"
+msgstr "Añadir nuevo testimonio"
+
+#: framework/config.php:516
+msgid "Add New Testimonial Category"
+msgstr "Añadir nueva categoría de testimonios"
+
+#: framework/config.php:2385 framework/config.php:2392
+#: framework/config.php:2399 framework/config.php:2406
+msgid ""
+"Add notification email text, you can use %username%, %title% and %link% "
+"keywords"
+msgstr ""
+"Agregue un mensaje de correo electrónico de notificación, puede usar "
+"%username%, %title% y %link% keywords"
+
+#: framework/config.php:2372
+msgid ""
+"Add password reset email text, you can use %username% and %link% keywords"
+msgstr ""
+"Agregue el texto del correo electrónico para restablecer la contraseña, "
+"puede usar %username% y %link% keywords"
+
+#: framework/classes/themex.interface.php:809
+msgid "Add Question"
+msgstr "Añadir pregunta"
+
+#: framework/config.php:2365
+msgid ""
+"Add registration email text, you can use %username%, %password% and %link% "
+"keywords"
+msgstr ""
+"Agregue el texto del correo electrónico de registro, puede usar %username%, "
+"%password% y %link% keywords"
+
+#: framework/classes/themex.sidebar.php:86
+msgid "Add Sidebar"
+msgstr "Añadir barra lateral"
+
+#: framework/classes/themex.core.php:582
+msgid "All changes have been saved"
+msgstr "Todos los cambios han sido guardados"
+
+#: framework/config.php:484
+msgid "All Course Categories"
+msgstr "Todas las categorías de cursos"
+
+#: template-statistics.php:123
+msgid "All Courses"
+msgstr "Todos los cursos"
+
+#: framework/classes/themex.core.php:611
+msgid "All options have been reset"
+msgstr "Todas las opciones han sido restablecidas"
+
+#: template-statistics.php:113
+msgid "All Students"
+msgstr "Todos los estudiantes"
+
+#: framework/config.php:511
+msgid "All Testimonial Categories"
+msgstr "Todas las categorías de testimonios"
+
+#: template-statistics.php:12 template-statistics.php:45
+#: framework/classes/themex.interface.php:661
+#: framework/classes/themex.lesson.php:396
+msgid "Answer"
+msgstr "Responder"
+
+#: woocommerce/cart/cart.php:102
+msgid "Apply"
+msgstr "Aplicar"
+
+#: framework/classes/themex.interface.php:929
+msgid "Archives"
+msgstr "Archivo"
+
+#: module-attachments.php:3 framework/config.php:730
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+#: framework/classes/themex.interface.php:424
+msgid "Audio"
+msgstr "Audio"
+
+#: sidebar-profile-right.php:27
+msgid "Author"
+msgstr "Autor"
+
+#: woocommerce/cart/cart.php:59
+msgid "Available on backorder"
+msgstr "Disponible por pedido pendiente"
+
+#: template-statistics.php:83 template-statistics.php:99
+#: framework/classes/themex.course.php:1259
+msgid "Average Grade"
+msgstr "Nota media"
+
+#: framework/config.php:539 framework/config.php:594 framework/config.php:618
+msgid "Background"
+msgstr "Fondo"
+
+#: framework/config.php:2034
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: framework/config.php:2041
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: framework/config.php:2048
+msgid "Background Type"
+msgstr "Tipo de fondo"
+
+#: woocommerce/order/order-details.php:125
+msgid "Billing Address"
+msgstr "Dirección de Envío"
+
+#: woocommerce/checkout/form-checkout.php:36
+msgid "Billing Details"
+msgstr "Detalles de facturación"
+
+#: framework/classes/widgets/themex.authors.php:7
+#: framework/classes/widgets/themex.authors.php:15
+#: framework/classes/widgets/themex.authors.php:25
+msgid "Blog Authors"
+msgstr "Autores de blogs"
+
+#: framework/config.php:139
+msgid "Bordered List"
+msgstr "Lista confinada"
+
+#: framework/config.php:2098
+msgid "Boxed"
+msgstr "En caja"
+
+#: framework/classes/themex.interface.php:385
+msgid "Browse"
+msgstr "Buscar"
+
+#: framework/config.php:822
+msgid "Button"
+msgstr "Botón"
+
+#: content-post.php:29 single.php:37
+msgid "by"
+msgstr "por"
+
+#: woocommerce/cart/shipping-calculator.php:16
+msgid "Calculate Shipping"
+msgstr "Calcular costo de envío"
+
+#: framework/classes/themex.interface.php:823
+msgid "Cancel Reply"
+msgstr "Cancelar respuesta"
+
+#: framework/config.php:581
+msgid "Capacity"
+msgstr "Capacidad"
+
+#: framework/config.php:865 framework/config.php:1175
+msgid "Caption"
+msgstr "Subtítulo"
+
+#: woocommerce/cart/cart-totals.php:17 woocommerce/checkout/review-order.php:19
+msgid "Cart Subtotal"
+msgstr "Subtotal del carrito"
+
+#: woocommerce/cart/cart-totals.php:13
+msgid "Cart Totals"
+msgstr "Totales del carrito"
+
+#: framework/config.php:482 framework/config.php:509
+#: framework/classes/themex.sidebar.php:214
+msgid "Categories"
+msgstr "Categorías"
+
+#: framework/config.php:652 framework/config.php:952 framework/config.php:1117
+#: framework/config.php:1241 framework/config.php:2187
+msgid "Category"
+msgstr "Categoría"
+
+#: framework/config.php:81
+msgid "Certificate"
+msgstr "Certificado"
+
+#: template-certificate.php:26
+msgid "Certificate not found"
+msgstr "Certificado no encontrado"
+
+#: framework/config.php:140
+msgid "Checked List"
+msgstr "Lista comprobada"
+
+#: framework/config.php:2460
+msgid "Checkout Form"
+msgstr "Formulario de pago"
+
+#: framework/config.php:1980
+msgid "Choose an image to replace the default site favicon"
+msgstr "Elija una imagen para reemplazar el sitio predeterminado favicon"
+
+#: framework/config.php:1987
+msgid "Choose an image to replace the default theme logo"
+msgstr "Elige una imagen para reemplazar el logo del tema predeterminado"
+
+#: framework/config.php:1994
+msgid "Choose an image to replace the default WordPress login logo"
+msgstr ""
+"Elija una imagen para reemplazar el logotipo de inicio de sesión "
+"predeterminado de WordPress"
+
+#: framework/config.php:542 framework/config.php:597 framework/config.php:621
+#: framework/config.php:2043
+msgid "Choose background image from WordPress media library"
+msgstr "Elija la imagen de fondo de la biblioteca de medios de WordPress"
+
+#: framework/config.php:656
+msgid "Choose course category to add courses to the plan"
+msgstr "Elija la categoría de cursos para agregar cursos al plan"
+
+#: framework/config.php:571
+msgid "Choose WooCommerce product to set the course price"
+msgstr "Elija el producto WooCommerce para establecer el precio del curso"
+
+#: framework/config.php:664
+msgid "Choose WooCommerce product to set the plan price"
+msgstr "Elija el producto WooCommerce para establecer el precio del plan"
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "City"
+msgstr "Ciudad"
+
+#: sidebar-lesson.php:28
+msgid "Close Lesson"
+msgstr "Cerrar lección"
+
+#: framework/classes/themex.form.php:238
+msgid "Code"
+msgstr "Código"
+
+#: framework/config.php:827
+msgid "Color"
+msgstr "Color"
+
+#: framework/config.php:874 framework/config.php:927
+msgid "Columns"
+msgstr "Columnas"
+
+#: framework/classes/themex.interface.php:805
+#: framework/classes/themex.interface.php:817
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:3
+msgid "Comments"
+msgstr "Comentarios"
+
+#: single-lesson.php:21
+#, php-format
+msgid "Complete \"%s\" lesson before taking this lesson."
+msgstr "Complete el tema \"%s\" antes de pasar a este."
+
+#: sidebar-lesson.php:12
+msgid "Complete Quiz"
+msgstr "Prueba completa"
+
+#: template-statistics.php:144
+msgid "Completed"
+msgstr "Terminado"
+
+#: framework/config.php:2390
+msgid "Completed Course Email"
+msgstr "Curso completado del correo electrónico"
+
+#: template-statistics.php:82 template-statistics.php:98
+#: framework/classes/themex.course.php:1258
+msgid "Completed Courses"
+msgstr "Cursos completados"
+
+#: template-profile-settings.php:34
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+#: framework/classes/themex.lesson.php:317
+#, php-format
+msgid "Congratulations! You have passed this quiz achieving %d%%!"
+msgstr "¡Felicidades! Has superado esta prueba logrando %d%%!"
+
+#: framework/classes/themex.lesson.php:315
+msgid "Congratulations! You have passed this quiz."
+msgstr "¡Felicidades! Has superado este cuestionario."
+
+#: framework/classes/themex.form.php:373
+msgid "Contact"
+msgstr "Contacto"
+
+#: framework/config.php:986 framework/config.php:2448
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: framework/config.php:611 framework/config.php:635 framework/config.php:746
+#: framework/config.php:905 framework/config.php:962 framework/config.php:977
+#: framework/config.php:1138 framework/config.php:1209
+#: framework/config.php:1275
+msgid "Content"
+msgstr "Contenido"
+
+#: framework/config.php:2065
+msgid "Content Font"
+msgstr "Fuente de contenido"
+
+#: framework/config.php:2000
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: woocommerce/cart/cart.php:102
+msgid "Coupon"
+msgstr "Cupón"
+
+#: woocommerce/cart/cart.php:102
+msgid "Coupon Code"
+msgstr "Código promocional"
+
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: template-statistics.php:21 template-statistics.php:70
+#: framework/config.php:278 framework/config.php:347 framework/config.php:709
+#: framework/classes/themex.course.php:1271
+#: framework/classes/themex.lesson.php:643
+#: framework/classes/themex.lesson.php:644
+msgid "Course"
+msgstr "Curso"
+
+#: framework/config.php:364
+msgid "course"
+msgstr "cursos"
+
+#: framework/config.php:480
+msgid "Course Categories"
+msgstr "Categorias del curso"
+
+#: framework/config.php:481
+msgid "Course Category"
+msgstr "Categoría del curso"
+
+#: framework/config.php:605
+msgid "Course Certificate"
+msgstr "Certificado de curso"
+
+#: framework/classes/themex.course.php:155
+msgid "Course Completed"
+msgstr "Curso completado"
+
+#: framework/classes/themex.course.php:939
+msgid "Course Membership"
+msgstr "Membresía del curso"
+
+#: framework/config.php:550
+msgid "Course Options"
+msgstr "Opciones del curso"
+
+#: framework/config.php:629
+msgid "Course Sidebar"
+msgstr "Barra lateral del curso"
+
+#. Name of the template
+#: template-statistics.php:136 framework/config.php:346
+#: framework/config.php:915 framework/config.php:2124
+msgid "Courses"
+msgstr "Cursos"
+
+#: framework/config.php:493
+msgid "courses"
+msgstr "cursos"
+
+#: framework/config.php:2150
+msgid "Courses Columns"
+msgstr "Cursos Columnas"
+
+#: framework/config.php:2129
+msgid "Courses Layout"
+msgstr "Diseño de los cursos"
+
+#: framework/config.php:2165
+msgid "Courses Order"
+msgstr "Cursos ordenados"
+
+#: framework/config.php:2176
+msgid "Courses Per Page"
+msgstr "Cursos por página"
+
+#: framework/config.php:2140
+msgid "Courses View"
+msgstr "Ver cursos"
+
+#: template-profile-settings.php:42
+msgid "Current Password"
+msgstr "Contraseña actual"
+
+#: framework/classes/themex.user.php:640
+msgid "Current password is incorrect"
+msgstr "La contraseña actual es incorrecta"
+
+#: framework/config.php:858
+msgid "Current Tab"
+msgstr "Pestaña actual"
+
+#: framework/classes/themex.style.php:114
+msgid "Custom"
+msgstr "Personalizado"
+
+#: framework/config.php:2072
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: woocommerce/order/order-details.php:127
+msgid "Customer Address"
+msgstr "Dirección del cliente"
+
+#: woocommerce/order/order-details.php:112
+msgid "Customer Details"
+msgstr "Detalles del cliente"
+
+#: woocommerce/order/order-details.php:143
+msgid "Customer Note"
+msgstr "Nota de cliente"
+
+#: framework/config.php:832
+msgid "Dark"
+msgstr "Oscuro"
+
+#: framework/config.php:943 framework/config.php:1110 framework/config.php:1234
+#: framework/config.php:1300 framework/config.php:2169
+#: woocommerce/myaccount/my-orders.php:25
+#: woocommerce/order/order-details.php:21
+#: framework/classes/widgets/themex.authors.php:96
+msgid "Date"
+msgstr "Fecha"
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "Date:"
+msgstr "Fecha:"
+
+#: framework/functions.php:634
+msgid "day"
+msgstr "día"
+
+#: framework/functions.php:636
+msgid "days"
+msgstr "dias"
+
+#: framework/classes/themex.sidebar.php:54
+msgid "Default"
+msgstr "Defecto"
+
+#: framework/config.php:723
+msgid "Delay"
+msgstr "Retrasar"
+
+#: module-course.php:13 framework/config.php:1029
+msgid "Description"
+msgstr "Descripción"
+
+#: framework/config.php:2233
+msgid "Disable Retaking Courses"
+msgstr "Deshabilitar cancelaciones de suscripción"
+
+#: framework/config.php:2261
+msgid "Disable Retaking Lessons"
+msgstr "Desactivar volver a tomar lecciones"
+
+#: framework/classes/themex.interface.php:423
+msgid "Document"
+msgstr "Documento"
+
+#: woocommerce/order/order-details.php:69
+#, php-format
+msgid "Download file%s"
+msgstr "Descargar archivo%s"
+
+#: framework/config.php:350
+msgid "Edit Course"
+msgstr "Editar curso"
+
+#: framework/config.php:487
+msgid "Edit Course Category"
+msgstr "Editar categoría de curso"
+
+#: framework/config.php:375
+msgid "Edit Lesson"
+msgstr "Editar Lección"
+
+#: framework/config.php:324
+msgid "Edit Plan"
+msgstr "Editar plan"
+
+#: framework/config.php:400
+msgid "Edit Quiz"
+msgstr "Editar cuestionario"
+
+#: framework/config.php:451
+msgid "Edit Slide"
+msgstr "Editar diapositiva"
+
+#: framework/config.php:426
+msgid "Edit Testimonial"
+msgstr "Editar Testimonial"
+
+#: framework/config.php:514
+msgid "Edit Testimonial Category"
+msgstr "Editar Categoría de Testimonios"
+
+#: header.php:78 template-register.php:19 framework/classes/themex.form.php:309
+#: framework/classes/themex.interface.php:815
+#: woocommerce/myaccount/form-login.php:22
+msgid "Email"
+msgstr "Email"
+
+#: template-profile-settings.php:18
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: framework/classes/themex.user.php:634
+msgid "Email address is invalid"
+msgstr "Dirección de correo electrónico es inválida"
+
+#: woocommerce/order/order-details.php:115
+msgid "Email:"
+msgstr "Email:"
+
+#: framework/config.php:2325 framework/classes/themex.form.php:67
+msgid "Enable Captcha Protection"
+msgstr "Habilitar protección Captcha"
+
+#: framework/config.php:2319
+msgid "Enable Email Confirmation"
+msgstr "Habilitar confirmación de correo electrónico"
+
+#: framework/config.php:2337
+msgid "Enable Facebook Login"
+msgstr "Habilitar inicio de sesión de Facebook"
+
+#: framework/config.php:2331
+msgid "Enable Login Filter"
+msgstr "Habilitar filtro de inicio de sesión"
+
+#: framework/config.php:2001
+msgid "Enter copyright text to show in the theme footer"
+msgstr ""
+"Introduzca texto de copyright para mostrar en el pie de página del tema"
+
+#: framework/config.php:2073
+msgid "Enter custom CSS code to overwrite the default theme styles"
+msgstr ""
+"Ingrese el código CSS personalizado para sobrescribir los estilos de tema "
+"predeterminados"
+
+#: framework/config.php:810
+msgid "Enter embedded video code to replace the slide image"
+msgstr ""
+"Ingrese el código de video incorporado para reemplazar la imagen de "
+"diapositiva"
+
+#: framework/config.php:2008
+msgid "Enter Google Analytics code to track your site visitors"
+msgstr ""
+"Ingrese el código de Google Analytics para rastrear a los visitantes de su "
+"sitio"
+
+#: framework/classes/themex.form.php:61
+msgid "Enter message to show when email is successfully sent"
+msgstr ""
+"Introduzca el mensaje para mostrar cuando el correo electrónico se envía "
+"correctamente"
+
+#: framework/config.php:2086
+msgid "Enter social sharing buttons code to show share button in the header"
+msgstr ""
+"Introduzca el código de los botones para compartir redes sociales para "
+"mostrar el botón de compartir en el encabezado"
+
+#: framework/config.php:803
+msgid "Enter URL for the slide image link"
+msgstr "Introduzca la URL para el enlace de la imagen de la diapositiva"
+
+#: framework/classes/themex.lesson.php:505
+msgid "ERROR"
+msgstr "ERROR"
+
+#: framework/classes/themex.user.php:418
+msgid "Error sending email"
+msgstr "Error al enviar correo"
+
+#: module-player.php:32
+msgid "Exit full screen"
+msgstr "Salir de pantalla completa"
+
+#: template-statistics.php:181
+msgid "Export"
+msgstr "Exportar"
+
+#: template-profile-links.php:18 framework/classes/themex.user.php:744
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/config.php:2343
+msgid "Facebook Application ID"
+msgstr "ID de aplicación de Facebook"
+
+#: framework/config.php:2353
+msgid "Facebook Application Secret"
+msgstr "Aplicación secreta de Facebook"
+
+#: framework/classes/themex.form.php:360
+msgid "field can only contain numbers"
+msgstr "campo solo puede contener numeros"
+
+#: framework/classes/themex.form.php:357
+msgid "field is required"
+msgstr "se requiere campo"
+
+#: framework/classes/themex.interface.php:435
+msgid "File"
+msgstr "Archivo"
+
+#: framework/config.php:1085
+msgid "File Title"
+msgstr "Título del archivo"
+
+#: framework/config.php:1078
+msgid "File URL"
+msgstr "URL del archivo"
+
+#: template-statistics.php:107
+msgid "Filter"
+msgstr "Filtrar"
+
+#: template-profile.php:11
+msgid "First Name"
+msgstr "Nombre"
+
+#: framework/config.php:890
+msgid "Five Twelfths"
+msgstr "Cinco doceavos"
+
+#: framework/config.php:891
+msgid "Five Twelfths Last"
+msgstr "Cinco duodécimos últimos"
+
+#: template-profile-links.php:58 framework/classes/themex.user.php:764
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/config.php:296
+msgid "Footer"
+msgstr "Pie de página"
+
+#: framework/config.php:115
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: framework/classes/themex.form.php:74
+msgid "Form Fields"
+msgstr "Campos de formulario"
+
+#: framework/classes/themex.form.php:59
+msgid "Form Message"
+msgstr "Formulario de mensaje"
+
+#: content-lesson.php:8 framework/config.php:562 framework/config.php:704
+#: framework/classes/themex.course.php:85 framework/classes/themex.woo.php:134
+msgid "Free"
+msgstr "Gratis"
+
+#: module-player.php:31
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+#: framework/config.php:2052
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: framework/config.php:1974
+msgid "General"
+msgstr "General"
+
+#: template-profile-links.php:34 framework/classes/themex.user.php:752
+msgid "Google"
+msgstr "Google"
+
+#: framework/config.php:996
+msgid "Google Map"
+msgstr "Mapa de Google"
+
+#: template-statistics.php:24 template-statistics.php:73
+#: template-statistics.php:169 framework/classes/themex.course.php:1275
+msgid "Grade"
+msgstr "Grado"
+
+#: framework/config.php:2144
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: framework/config.php:2080
+msgid "Header"
+msgstr "Encabezamiento"
+
+#: framework/config.php:2058
+msgid "Heading Font"
+msgstr "Fuente de encabezado"
+
+#: framework/config.php:1001
+msgid "Height"
+msgstr "Altura"
+
+#: framework/config.php:2255
+msgid "Hide Child Lessons"
+msgstr "Ocultar lecciones de niños"
+
+#: framework/config.php:2215
+msgid "Hide Course Author"
+msgstr "Ocultar el autor del curso"
+
+#: framework/config.php:2221
+msgid "Hide Course Rating"
+msgstr "Ocultar la calificación del curso"
+
+#: framework/config.php:2435
+msgid "Hide Courses"
+msgstr "Ocultar cursos"
+
+#: framework/config.php:2423
+msgid "Hide Description"
+msgstr "Ocultar descripción"
+
+#: framework/config.php:2295
+msgid "Hide Post Author"
+msgstr "Ocultar Post Autor"
+
+#: framework/config.php:2301
+msgid "Hide Post Date"
+msgstr "Ocultar fecha de publicación"
+
+#: framework/config.php:2307
+msgid "Hide Post Image"
+msgstr "Ocultar imagen de publicación"
+
+#: framework/config.php:2267
+msgid "Hide Prerequisite Content"
+msgstr "Ocultar el contenido de requisito previo"
+
+#: framework/config.php:2417
+msgid "Hide Signature"
+msgstr "Ocultar firma"
+
+#: framework/config.php:2429
+msgid "Hide Social Links"
+msgstr "Ocultar enlaces sociales"
+
+#: framework/config.php:2227
+msgid "Hide Students Number"
+msgstr "Ocultar número de estudiantes"
+
+#: framework/config.php:1193
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#. URI of the theme
+msgid "https://demo.themex.co/academy"
+msgstr "https://demo.themex.co/academy"
+
+#. Author URI of the theme
+msgid "https://themex.co"
+msgstr "https://themex.co"
+
+#: woocommerce/checkout/form-checkout.php:46
+msgid "I accept the"
+msgstr "Acepto el"
+
+#: woocommerce/checkout/payment.php:65
+msgid "I have read and accept the"
+msgstr "He leído y acepto la"
+
+#: framework/config.php:1038 framework/config.php:1043
+#: framework/config.php:1169
+msgid "Image"
+msgstr "Imagen"
+
+#: single.php:37
+msgid "in"
+msgstr "en"
+
+#: framework/config.php:101
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: framework/classes/themex.user.php:422
+msgid "Incorrect email address"
+msgstr "Dirección de E-Mail incorrecta"
+
+#: framework/classes/themex.user.php:348
+msgid "Incorrect username or password"
+msgstr "Nombre de usuario o contraseña incorrecta"
+
+#: framework/classes/themex.shortcode.php:67
+#: framework/classes/themex.shortcode.php:156
+msgid "Insert Shortcode"
+msgstr "Insertar código corto"
+
+#: framework/classes/themex.interface.php:95
+msgid "Insert This Item"
+msgstr "Insertar este artículo"
+
+#: framework/classes/themex.user.php:226
+msgid "Invalid character used in username"
+msgstr "Carácter no válido utilizado en nombre de usuario"
+
+#: framework/classes/themex.user.php:220
+msgid "Invalid email address"
+msgstr "Dirección de correo electrónico no válida"
+
+#: framework/config.php:843
+msgid "Large"
+msgstr "Grande"
+
+#: template-profile.php:19
+msgid "Last Name"
+msgstr "Apellido"
+
+#: framework/config.php:1008
+msgid "Latitude"
+msgstr "Latitud"
+
+#. Description of the theme
+msgid "Learning Management WordPress Theme."
+msgstr "Gestión de aprendizaje de WordPress Theme."
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: framework/functions.php:639
+msgid "less than a day"
+msgstr "menos de un día"
+
+#: template-statistics.php:23 template-statistics.php:72
+#: framework/config.php:287 framework/config.php:372 framework/config.php:763
+#: framework/classes/themex.course.php:1274
+#: framework/classes/themex.interface.php:903
+msgid "Lesson"
+msgstr "Tema"
+
+#: framework/config.php:389
+msgid "lesson"
+msgstr "tema"
+
+#: framework/config.php:693
+msgid "Lesson Options"
+msgstr "Opciones del tema"
+
+#: framework/config.php:740
+msgid "Lesson Sidebar"
+msgstr "Barra lateral del tema"
+
+#: module-lessons.php:3 single-course.php:9 framework/config.php:371
+#: framework/config.php:2240
+msgid "Lessons"
+msgstr "Temas"
+
+#: framework/config.php:2245
+msgid "Lessons Layout"
+msgstr "Diseño de temas"
+
+#: framework/config.php:800 framework/config.php:849 framework/config.php:1049
+#: framework/classes/themex.interface.php:436
+msgid "Link"
+msgstr "Enlazar"
+
+#: template-profile-links.php:50 framework/classes/themex.user.php:760
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/config.php:2145
+msgid "List"
+msgstr "Lista"
+
+#: framework/config.php:1993
+msgid "Login Logo"
+msgstr "Login Logo"
+
+#: framework/config.php:1015
+msgid "Longitude"
+msgstr "Longitud"
+
+#: framework/config.php:110
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: sidebar-lesson.php:16
+msgid "Mark Complete"
+msgstr "Hecho"
+
+#: sidebar-lesson.php:6
+msgid "Mark Incomplete"
+msgstr "Por hacer"
+
+#: framework/config.php:842
+msgid "Medium"
+msgstr "Medio"
+
+#: framework/config.php:674
+msgid "Month"
+msgstr "Mes"
+
+#: framework/functions.php:620
+msgid "month"
+msgstr "mes"
+
+#: framework/functions.php:628
+msgid "months"
+msgstr "meses"
+
+#: framework/config.php:1259
+msgid "Multiple"
+msgstr "Múltiple"
+
+#: framework/classes/themex.interface.php:637
+msgid "Multiple Choice"
+msgstr "Opción multiple"
+
+#: module-player.php:39
+msgid "Mute"
+msgstr "Mudo"
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: sidebar-profile-left.php:22 framework/config.php:53
+msgid "My Links"
+msgstr "Mis enlaces"
+
+#: sidebar-profile-left.php:26
+msgid "My Orders"
+msgstr "Mis ordenes"
+
+#: header.php:35 sidebar-profile-left.php:20
+#: framework/classes/themex.interface.php:922
+msgid "My Profile"
+msgstr "Mi perfil"
+
+#: sidebar-profile-left.php:24 framework/config.php:44
+msgid "My Settings"
+msgstr "Mi configuración"
+
+#: framework/config.php:1301 framework/classes/themex.form.php:286
+#: framework/classes/themex.interface.php:814
+#: framework/classes/themex.sidebar.php:88
+#: framework/classes/widgets/themex.authors.php:97
+msgid "Name"
+msgstr "Nombre"
+
+#: framework/config.php:351
+msgid "New Course"
+msgstr "Nuevo curso"
+
+#: framework/config.php:490
+msgid "New Course Category Name"
+msgstr "Nuevo nombre de categoría del curso"
+
+#: framework/config.php:2383
+msgid "New Course Email"
+msgstr "Nuevo email del curso"
+
+#: framework/config.php:376
+msgid "New Lesson"
+msgstr "Nueva lección"
+
+#: template-profile-settings.php:26
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: framework/config.php:325
+msgid "New Plan"
+msgstr "Nuevo plan"
+
+#: framework/config.php:2397
+msgid "New Plan Email"
+msgstr "Nuevo email del plan"
+
+#: framework/config.php:2404
+msgid "New Question Email"
+msgstr "Nueva pregunta de correo electrónico"
+
+#: framework/config.php:401
+msgid "New Quiz"
+msgstr "Nuevo cuestionario"
+
+#: framework/config.php:452
+msgid "New Slide"
+msgstr "Nuevo tobogán"
+
+#: framework/config.php:859
+msgid "New Tab"
+msgstr "Nueva pestaña"
+
+#: framework/config.php:427
+msgid "New Testimonial"
+msgstr "Nuevo testimonio"
+
+#: framework/config.php:517
+msgid "New Testimonial Category Name"
+msgstr "Nuevo Nombre de Categoría de Testimonial"
+
+#: sidebar-lesson.php:31
+msgid "Next Lesson"
+msgstr "Siguiente lección"
+
+#: framework/config.php:354
+msgid "No Courses Found"
+msgstr "No se encontraron cursos"
+
+#: framework/config.php:355
+msgid "No Courses Found in Trash"
+msgstr "No se encontraron cursos en la basura"
+
+#: sidebar-profile-right.php:19
+msgid "No courses yet."
+msgstr "No hay cursos todavía."
+
+#: framework/config.php:379
+msgid "No Lessons Found"
+msgstr "No se han encontrado lecciones"
+
+#: framework/config.php:380
+msgid "No Lessons Found in Trash"
+msgstr "No se han encontrado lecciones en la basura"
+
+#: woocommerce/myaccount/my-orders.php:19
+msgid "No orders yet."
+msgstr "No hay pedidos todavía."
+
+#: framework/config.php:328
+msgid "No Plans Found"
+msgstr "No se encontraron planes"
+
+#: framework/config.php:329
+msgid "No Plans Found in Trash"
+msgstr "No se encontraron planes en la basura"
+
+#: template-posts.php:38
+msgid "No posts found. Try a different search?"
+msgstr "No se han encontrado publicaciones. Intenta una búsqueda diferente?"
+
+#: framework/config.php:404
+msgid "No Quizzes Found"
+msgstr "No se encontraron pruebas"
+
+#: framework/config.php:405
+msgid "No Quizzes Found in Trash"
+msgstr "No se encontraron pruebas en la basura"
+
+#: framework/config.php:455
+msgid "No Slides Found"
+msgstr "No se encontraron diapositivas"
+
+#: framework/config.php:456
+msgid "No Slides Found in Trash"
+msgstr "No se encontraron diapositivas en la basura"
+
+#: framework/config.php:430
+msgid "No Testimonials Found"
+msgstr "No se encontraron testimonios"
+
+#: framework/config.php:431
+msgid "No Testimonials Found in Trash"
+msgstr "No se encontraron testimonios en la basura"
+
+#: framework/config.php:672 framework/classes/themex.interface.php:541
+#: framework/classes/themex.interface.php:576
+msgid "None"
+msgstr "Ninguna"
+
+#: woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Nota: El envío y los impuestos son estimado%s y se actualizarán durante el "
+"proceso de pago en función de su información de facturación y envío."
+
+#: framework/config.php:2378
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: framework/config.php:920 framework/config.php:1100 framework/config.php:1224
+#: framework/config.php:1290 framework/classes/themex.form.php:308
+#: woocommerce/order/order-details.php:15
+#: framework/classes/widgets/themex.authors.php:84
+#: framework/classes/widgets/themex.twitter.php:89
+msgid "Number"
+msgstr "Número"
+
+#: framework/classes/widgets/themex.comments.php:67
+msgid "Number of comments to show"
+msgstr "Número de comentarios a mostrar"
+
+#: framework/classes/widgets/themex.comments.php:43
+msgid "on"
+msgstr "en"
+
+#: framework/config.php:886
+msgid "One Fourth"
+msgstr "Un cuarto"
+
+#: framework/config.php:887
+msgid "One Fourth Last"
+msgstr "Un cuarto último"
+
+#: framework/config.php:892
+msgid "One Half"
+msgstr "Una mitad"
+
+#: framework/config.php:893
+msgid "One Half Last"
+msgstr "Una mitad pasada"
+
+#: framework/config.php:884
+msgid "One Sixth"
+msgstr "Un sexto"
+
+#: framework/config.php:885
+msgid "One Sixth Last"
+msgstr "Un sexto último"
+
+#: framework/config.php:888
+msgid "One Third"
+msgstr "Un tercio"
+
+#: framework/config.php:889
+msgid "One Third Last"
+msgstr "Un tercio último"
+
+#: framework/classes/themex.core.php:737
+msgid "Only JPG and PNG images are allowed."
+msgstr "Sólo se permiten imágenes JPG y PNG."
+
+#: template-statistics.php:176 framework/classes/themex.form.php:321
+msgid "Options"
+msgstr "Opciones"
+
+#: framework/config.php:940 framework/config.php:1107 framework/config.php:1231
+#: framework/config.php:1297 framework/classes/widgets/themex.authors.php:88
+msgid "Order"
+msgstr "Orden"
+
+#: woocommerce/order/order-details.php:155
+msgid "Order Note"
+msgstr "Nota de pedido"
+
+#: woocommerce/cart/cart-totals.php:60 woocommerce/checkout/review-order.php:62
+msgid "Order Total"
+msgstr "Total del pedido"
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "Order:"
+msgstr "Orden:"
+
+#: framework/config.php:533
+msgid "Page Options"
+msgstr "Opciones de página"
+
+#: framework/classes/themex.sidebar.php:198
+msgid "Pages"
+msgstr "Páginas"
+
+#: framework/config.php:2096
+msgid "Parallax"
+msgstr "Paralaje"
+
+#: framework/config.php:485 framework/config.php:486
+msgid "Parent Course Category"
+msgstr "Categoría de curso para padres"
+
+#: framework/config.php:512 framework/config.php:513
+msgid "Parent Testimonial Category"
+msgstr "Categoría de Testimonios de Padres"
+
+#: header.php:49 template-register.php:25 template-register.php:60
+#: woocommerce/global/form-login.php:24 woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:63
+msgid "Password"
+msgstr "Contraseña"
+
+#: framework/classes/themex.user.php:236 framework/classes/themex.user.php:621
+msgid "Password contains invalid characters"
+msgstr "La contraseña contiene caracteres inválidos"
+
+#: framework/classes/themex.user.php:232 framework/classes/themex.user.php:617
+msgid "Password must be at least 4 characters long"
+msgstr "La contraseña debe tener al menos 4 caracteres"
+
+#: framework/classes/themex.user.php:234 framework/classes/themex.user.php:619
+msgid "Password must be not more than 16 characters long"
+msgstr "La contraseña no debe tener más de 16 caracteres"
+
+#: header.php:62 framework/classes/themex.user.php:415
+msgid "Password Recovery"
+msgstr "Recuperación de contraseña"
+
+#: framework/classes/themex.user.php:395
+msgid "Password recovery not allowed"
+msgstr "Recuperación de contraseña no permitida"
+
+#: framework/config.php:2370
+msgid "Password Reset Email"
+msgstr "Contraseña restablecer correo electrónico"
+
+#: framework/classes/themex.user.php:416
+msgid "Password reset link is sent"
+msgstr "Se ha enviado el enlace para restablecer la contraseña"
+
+#: framework/classes/themex.user.php:238 framework/classes/themex.user.php:623
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+#: module-player.php:18 framework/config.php:1152
+msgid "Pause"
+msgstr "Pausa"
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Pay"
+msgstr "Paga"
+
+#: woocommerce/checkout/payment.php:12
+msgid "Payment Method"
+msgstr "Método de pago"
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Payment method:"
+msgstr "Método de pago:"
+
+#: template-statistics.php:149
+msgid "Per User"
+msgstr "Por usuario"
+
+#: framework/config.php:770
+msgid "Percentage"
+msgstr "Porcentaje"
+
+#: framework/config.php:668
+msgid "Period"
+msgstr "Período"
+
+#: woocommerce/order/order-details.php:118
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: woocommerce/checkout/payment.php:57
+msgid "Place order"
+msgstr "Realizar pedido"
+
+#: framework/config.php:321 framework/config.php:1058 framework/config.php:1063
+msgid "Plan"
+msgstr "Plan"
+
+#: framework/config.php:339
+msgid "plan"
+msgstr "plan"
+
+#: framework/config.php:646
+msgid "Plan Options"
+msgstr "Opciones de plan"
+
+#: framework/classes/themex.course.php:626
+msgid "Plan Subscription"
+msgstr "Suscripción al plan"
+
+#: framework/config.php:320
+msgid "Plans"
+msgstr "Planes"
+
+#: module-player.php:11 module-player.php:17
+msgid "Play"
+msgstr "Jugar"
+
+#: framework/config.php:1073
+msgid "Player"
+msgstr "Jugador"
+
+#: woocommerce/checkout/thankyou.php:18
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Intente nuevamente su compra o vaya a la página de su cuenta."
+
+#: woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again."
+msgstr "Por favor, intente su compra de nuevo."
+
+#: woocommerce/cart/cart-shipping.php:46
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Continúe con el proceso de pago e ingrese su dirección completa para ver si "
+"hay métodos de envío disponibles."
+
+#: framework/classes/themex.user.php:217
+msgid "Please fill in all fields"
+msgstr "Por favor rellena todos los campos"
+
+#: woocommerce/checkout/payment.php:44
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor, complete sus datos arriba para ver los métodos de pago "
+"disponibles."
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Por favor, rellene sus datos para ver los métodos de envío disponibles."
+
+#: framework/classes/themex.lesson.php:505
+msgid "please type a question."
+msgstr "por favor escriba una pregunta."
+
+#: woocommerce/cart/cart-shipping.php:44
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Utilice la calculadora de envíos para ver los métodos de envío disponibles."
+
+#: framework/config.php:945 framework/config.php:2171 framework/config.php:2189
+msgid "Popularity"
+msgstr "Popularidad"
+
+#: woocommerce/cart/shipping-calculator.php:59
+msgid "Postcode / Zip"
+msgstr "Código postal / postal"
+
+#. Name of the template
+#: framework/config.php:1095 framework/config.php:2280
+msgid "Posts"
+msgstr "Mensajes"
+
+#: framework/config.php:2285
+msgid "Posts Layout"
+msgstr "Diseño de mensajes"
+
+#: framework/config.php:560 framework/config.php:703
+msgid "Premium"
+msgstr "Premium"
+
+#: framework/config.php:716
+msgid "Prerequisite"
+msgstr "Requisito previo"
+
+#: sidebar-lesson.php:34
+msgid "Previous Lesson"
+msgstr "Leccion previa"
+
+#: woocommerce/cart/cart.php:23
+msgid "Price"
+msgstr "Precio"
+
+#: framework/config.php:830
+msgid "Primary"
+msgstr "Primario"
+
+#: framework/config.php:2020
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: template-certificate.php:22
+msgid "Print Certificate"
+msgstr "Certificado de impresión"
+
+#: framework/config.php:561 framework/config.php:971
+msgid "Private"
+msgstr "Privado"
+
+#: framework/config.php:567 framework/config.php:660
+#: woocommerce/cart/cart.php:22 woocommerce/checkout/review-order.php:13
+#: woocommerce/order/order-details.php:37
+msgid "Product"
+msgstr "Producto"
+
+#: framework/classes/themex.interface.php:924
+msgid "Profile"
+msgstr "Perfil"
+
+#. Name of the template
+msgid "Profile Details"
+msgstr "Detalles del perfil"
+
+#: framework/config.php:2412
+msgid "Profile Form"
+msgstr "Formulario de perfil"
+
+#: framework/classes/themex.user.php:575
+msgid "Profile has been successfully saved"
+msgstr "El perfil se ha guardado con éxito"
+
+#. Name of the template
+msgid "Profile Links"
+msgstr "Enlaces de perfil"
+
+#: framework/classes/themex.user.php:707
+msgid "Profile Photo"
+msgstr "Foto de perfil"
+
+#. Name of the template
+msgid "Profile Settings"
+msgstr "Configuración de perfil"
+
+#: framework/classes/themex.user.php:736
+msgid "Profile Text"
+msgstr "Texto de perfil"
+
+#: framework/classes/themex.user.php:736
+msgid "Profile Text [ES]"
+msgstr "Texto de perfil [ES]"
+
+#: framework/classes/themex.user.php:736
+msgid "Profile Text [CA]"
+msgstr "Texto de perfil [CA]"
+
+#: framework/config.php:970
+msgid "Public"
+msgstr "Público"
+
+#: woocommerce/cart/cart.php:24
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: template-statistics.php:11 template-statistics.php:44
+#: framework/classes/themex.interface.php:626
+#: framework/classes/themex.interface.php:804
+msgid "Question"
+msgstr "Pregunta"
+
+#: framework/classes/themex.lesson.php:532
+msgid "Question Answered"
+msgstr "Pregunta respondida"
+
+#: questions.php:6 single-course.php:24 framework/config.php:784
+msgid "Questions"
+msgstr "Preguntas"
+
+#: framework/config.php:2208
+msgid "Questions Number"
+msgstr "Número de preguntas"
+
+#: framework/config.php:397 framework/classes/themex.interface.php:906
+msgid "Quiz"
+msgstr "Examen"
+
+#: framework/config.php:415
+msgid "quiz"
+msgstr "examen"
+
+#: framework/config.php:757
+msgid "Quiz Options"
+msgstr "Opciones de prueba"
+
+#: framework/config.php:396
+msgid "Quizzes"
+msgstr "Pruebas"
+
+#: framework/config.php:946 framework/config.php:1111 framework/config.php:1235
+msgid "Random"
+msgstr "Aleatorio"
+
+#: framework/config.php:575 framework/config.php:944 framework/config.php:2170
+#: framework/config.php:2188
+msgid "Rating"
+msgstr "Clasificación"
+
+#: content-post.php:21
+msgid "Read More"
+msgstr "Lee mas"
+
+#: framework/classes/widgets/themex.comments.php:7
+#: framework/classes/widgets/themex.comments.php:30
+msgid "Recent Comments"
+msgstr "Comentarios Recientes"
+
+#: framework/classes/widgets/themex.twitter.php:7
+#: framework/classes/widgets/themex.twitter.php:19
+#: framework/classes/widgets/themex.twitter.php:24
+msgid "Recent Tweets"
+msgstr "Tweets recientes"
+
+#: header.php:93 template-register.php:9 template-register.php:41
+#: woocommerce/myaccount/form-login.php:12
+#: woocommerce/myaccount/form-login.php:44
+msgid "Register"
+msgstr "Registro"
+
+#. Name of the template
+#: framework/config.php:62 framework/config.php:2314
+msgid "Registration"
+msgstr "Registro"
+
+#: framework/classes/themex.facebook.php:145
+#: framework/classes/themex.user.php:280
+msgid "Registration Complete"
+msgstr "Registro Completo"
+
+#: framework/classes/themex.user.php:253
+msgid "Registration complete! Check your mailbox to activate the account"
+msgstr "Inscripción completa! Revisa tu buzón para activar la cuenta"
+
+#: framework/config.php:2363
+msgid "Registration Email"
+msgstr "Registro de correo electrónico"
+
+#: module-related.php:4
+msgid "Related Courses"
+msgstr "Cursos relacionados"
+
+#: framework/config.php:2194
+msgid "Related Courses Number"
+msgstr "Número de cursos relacionados"
+
+#: framework/config.php:2183
+msgid "Related Courses Order"
+msgstr "Cursos relacionados"
+
+#: framework/classes/themex.form.php:273
+#: framework/classes/themex.interface.php:404
+#: framework/classes/themex.interface.php:617
+#: framework/classes/themex.interface.php:652
+#: framework/classes/themex.interface.php:704
+#: framework/classes/themex.shortcode.php:146
+#: framework/classes/themex.sidebar.php:182
+msgid "Remove"
+msgstr "Retirar"
+
+#: woocommerce/cart/cart.php:89
+msgid "Remove this item"
+msgstr "Eliminar este elemento"
+
+#: template-register.php:30 woocommerce/myaccount/form-login.php:33
+msgid "Repeat Password"
+msgstr "Repite la contraseña"
+
+#: framework/templates/index.php:16
+msgid "Reset Options"
+msgstr "Opciones de reinicio"
+
+#: header.php:81
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: woocommerce/loop/sale-flash.php:15
+#: woocommerce/single-product/sale-flash.php:15
+msgid "Sale"
+msgstr "Venta"
+
+#: template-profile-links.php:83 template-profile-settings.php:51
+#: template-profile.php:49 framework/templates/index.php:5
+#: framework/templates/index.php:17
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: framework/config.php:483
+msgid "Search Course Categories"
+msgstr "Buscar categorías de cursos"
+
+#: framework/config.php:353
+msgid "Search Courses"
+msgstr "Buscar cursos"
+
+#: framework/config.php:378
+msgid "Search Lessons"
+msgstr "Buscar lecciones"
+
+#: framework/config.php:327
+msgid "Search Plans"
+msgstr "Planes de busqueda"
+
+#: framework/config.php:403
+msgid "Search Quizzes"
+msgstr "Cuestionarios de búsqueda"
+
+#: framework/config.php:454
+msgid "Search Slides"
+msgstr "Buscar diapositivas"
+
+#: framework/config.php:510
+msgid "Search Testimonial Categories"
+msgstr "Buscar Categorías de Testimonios"
+
+#: framework/config.php:429
+msgid "Search Testimonials"
+msgstr "Buscar Testimonios"
+
+#: framework/config.php:831
+msgid "Secondary"
+msgstr "Secundario"
+
+#: framework/config.php:2027
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: framework/config.php:1127
+msgid "Section"
+msgstr "Sección"
+
+#: framework/classes/themex.form.php:297 framework/classes/themex.form.php:311
+msgid "Select"
+msgstr "Seleccionar"
+
+#: woocommerce/cart/shipping-calculator.php:20
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr "Seleccione un país y hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:41
+msgid "Select a state&hellip;"
+msgstr "Seleccione un estado y hellip;"
+
+#: framework/classes/widgets/themex.authors.php:6
+msgid "Selected blog authors"
+msgstr "Autores seleccionados del blog"
+
+#: framework/config.php:777
+msgid "Selection"
+msgstr "Selección"
+
+#: framework/config.php:726
+msgid "Set delay in days for this lesson"
+msgstr "Establecer retraso en días para este tema"
+
+#: framework/config.php:584
+msgid "Set maximum number of students for this course"
+msgstr "Establecer el número máximo de estudiantes para este curso"
+
+#: framework/config.php:780
+msgid "Set number of questions to select from the question bank"
+msgstr ""
+"Establecer número de preguntas para seleccionar desde el banco de preguntas"
+
+#: framework/config.php:773
+msgid "Set percentage of right answers required to pass this quiz"
+msgstr ""
+"Establezca el porcentaje de respuestas correctas requeridas para pasar esta "
+"prueba"
+
+#: framework/classes/themex.user.php:646
+msgid "Settings have been successfully saved"
+msgstr "Los ajustes se han guardado con éxito"
+
+#: framework/config.php:894
+msgid "Seven Twelfths"
+msgstr "Siete doceavos"
+
+#: framework/config.php:895
+msgid "Seven Twelfths Last"
+msgstr "Siete doceavos últimos"
+
+#: framework/config.php:2085
+msgid "Sharing Code"
+msgstr "Código compartido"
+
+#: woocommerce/cart/cart-shipping.php:69
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/cart/cart-shipping.php:14
+#, php-format
+msgid "Shipping #%d"
+msgstr "Envío #%d"
+
+#: woocommerce/order/order-details.php:135
+msgid "Shipping Address"
+msgstr "Dirección de Envío"
+
+#: woocommerce/cart/cart-shipping.php:16
+msgid "Shipping and Handling"
+msgstr "Envío y manipulación"
+
+#: framework/classes/themex.interface.php:638
+msgid "Short Answer"
+msgstr "Respuesta corta"
+
+#: framework/classes/themex.woo.php:95
+msgid "Show Address"
+msgstr "Mostrar dirección"
+
+#: framework/classes/themex.woo.php:81
+msgid "Show City"
+msgstr "Mostrar ciudad"
+
+#: framework/classes/themex.woo.php:109
+msgid "Show Company"
+msgstr "Mostrar empresa"
+
+#: framework/classes/themex.woo.php:74
+msgid "Show Country"
+msgstr "Mostrar país"
+
+#: framework/classes/themex.woo.php:116
+msgid "Show Phone"
+msgstr "Mostrar teléfono"
+
+#: framework/classes/themex.woo.php:102
+msgid "Show Postcode"
+msgstr "Mostrar código postal"
+
+#: framework/classes/themex.woo.php:88
+msgid "Show State"
+msgstr "Mostrar estado"
+
+#: framework/config.php:2273
+msgid "Shuffle Quiz Questions"
+msgstr "Preguntas de la prueba aleatoria"
+
+#: framework/config.php:2471
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: header.php:40 header.php:52 template-register.php:52
+#: template-register.php:62 woocommerce/global/form-login.php:30
+#: woocommerce/myaccount/form-login.php:55
+#: woocommerce/myaccount/form-login.php:65
+msgid "Sign In"
+msgstr "Inicio"
+
+#: header.php:56 template-register.php:64
+#: woocommerce/myaccount/form-login.php:67
+msgid "Sign in with Facebook"
+msgstr "Iniciar sesión usando Facebook"
+
+#: header.php:30
+msgid "Sign Out"
+msgstr "Desconectar"
+
+#: template-profile.php:28 framework/classes/themex.user.php:720
+msgid "Signature"
+msgstr "Firma"
+
+#: woocommerce/checkout/payment.php:53
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Dado que su navegador no admite JavaScript o está deshabilitado, asegúrese "
+"de hacer clic en el botón <em>Actualizar totales</em> antes de realizar su "
+"pedido. Es posible que se le cobre más que el monto indicado anteriormente "
+"si no lo hace."
+
+#: framework/classes/themex.interface.php:636
+msgid "Single Choice"
+msgstr "Selección única"
+
+#: framework/config.php:1979
+msgid "Site Favicon"
+msgstr "Sitio Favicon"
+
+#: framework/config.php:1986
+msgid "Site Logo"
+msgstr "Noticias"
+
+#: framework/config.php:838
+msgid "Size"
+msgstr "Tamaño"
+
+#: framework/config.php:448
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: framework/config.php:465
+msgid "slide"
+msgstr "diapositiva"
+
+#: framework/config.php:794
+msgid "Slide Options"
+msgstr "Opciones de diapositiva"
+
+#: framework/config.php:1147
+msgid "Slider"
+msgstr "Deslizador"
+
+#: framework/config.php:2103
+msgid "Slider Pause"
+msgstr "Pausa deslizante"
+
+#: framework/config.php:2113
+msgid "Slider Speed"
+msgstr "Velocidad del control deslizante"
+
+#: framework/config.php:2092
+msgid "Slider Type"
+msgstr "Tipo de control deslizante"
+
+#: framework/config.php:447
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: framework/config.php:841
+msgid "Small"
+msgstr "Pequeña"
+
+#: woocommerce/checkout/payment.php:46
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no hay métodos de pago disponibles para su estado. "
+"Por favor, póngase en contacto con nosotros si necesita asistencia o desea "
+"hacer arreglos alternativos."
+
+#: template-posts.php:39
+msgid ""
+"Sorry, no posts matched your search. Try again with some different keywords."
+msgstr ""
+"Lo sentimos, no hay publicaciones que coincidan con tu búsqueda. Inténtalo "
+"de nuevo con algunas palabras clave diferentes."
+
+#: framework/config.php:1159
+msgid "Speed"
+msgstr "Velocidad"
+
+#: woocommerce/cart/shipping-calculator.php:37
+#: woocommerce/cart/shipping-calculator.php:40
+#: woocommerce/cart/shipping-calculator.php:49
+msgid "State / county"
+msgstr "Estado / Condado"
+
+#: template-statistics.php:2 framework/classes/themex.course.php:1192
+msgid "Statistics"
+msgstr "Estadística"
+
+#: framework/config.php:556 framework/config.php:699
+#: woocommerce/myaccount/my-orders.php:26
+#: woocommerce/order/order-details.php:27
+msgid "Status"
+msgstr "Estado"
+
+#: framework/config.php:2097
+msgid "Stretched"
+msgstr "Estirado"
+
+#: framework/classes/themex.form.php:296 framework/classes/themex.form.php:307
+msgid "String"
+msgstr "Texto"
+
+#: module-users.php:3 template-statistics.php:156 framework/config.php:588
+#: framework/config.php:683
+msgid "Students"
+msgstr "Estudiantes"
+
+#: framework/config.php:2201
+msgid "Students Number"
+msgstr "Numero de estudiantes"
+
+#: framework/config.php:2015
+msgid "Styling"
+msgstr "Estilo"
+
+#: framework/shortcodes.php:109
+msgid "Submit"
+msgstr "Enviar"
+
+#: content-plan.php:20 module-form.php:7
+msgid "Subscribe Now"
+msgstr "Suscríbase ahora"
+
+#: single-course.php:35
+msgid "Subscribe to view this content"
+msgstr "Suscríbete para ver este contenido"
+
+#: framework/config.php:1185
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: single-course.php:37
+msgid "Take a course to view this content"
+msgstr "Apúntate al curso para ver este contenido"
+
+#: sidebar-lesson.php:14
+msgid "Take a Quiz"
+msgstr "Tomar una prueba"
+
+#: module-form.php:14 module-form.php:17
+msgid "Take This Course"
+msgstr "Inscripción al curso"
+
+#: framework/config.php:855
+msgid "Target"
+msgstr "Objetivo"
+
+#: woocommerce/checkout/form-checkout.php:46
+#: woocommerce/checkout/payment.php:65
+msgid "terms &amp; conditions"
+msgstr "términos & amp; condiciones"
+
+#: framework/config.php:423
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: framework/config.php:440
+msgid "testimonial"
+msgstr "testimonial"
+
+#: framework/config.php:507
+msgid "Testimonial Categories"
+msgstr "Categorías de testimonios"
+
+#: framework/config.php:508
+msgid "Testimonial Category"
+msgstr "Categoría de testimonios"
+
+#: framework/config.php:422 framework/config.php:1219
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: framework/config.php:520
+msgid "testimonials"
+msgstr "testimonios"
+
+#: framework/classes/themex.form.php:310
+msgid "Text"
+msgstr "Texto"
+
+#: woocommerce/checkout/thankyou.php:29 woocommerce/checkout/thankyou.php:55
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Tu orden ha sido recibida."
+
+#: framework/classes/widgets/themex.comments.php:6
+msgid "The most recent comments"
+msgstr "Los comentarios más recientes"
+
+#: framework/classes/widgets/themex.twitter.php:6
+msgid "The most recent tweets"
+msgstr "Los tweets más recientes"
+
+#: framework/classes/themex.form.php:348
+msgid "The verification code is incorrect"
+msgstr "El código de verificación es incorrecto"
+
+#: framework/classes/themex.interface.php:141 framework/templates/index.php:4
+msgid "Theme Options"
+msgstr "Opciones de tema"
+
+#. Author of the theme
+msgid "Themex"
+msgstr "Themex"
+
+#: woocommerce/cart/cart-shipping.php:53 woocommerce/cart/cart-shipping.php:57
+msgid ""
+"There don&lsquo;t seem to be available shipping methods. Please double check "
+"your address, or contact us if you need any help."
+msgstr ""
+"Parece que no hay métodos de envío disponibles. Por favor revise su "
+"dirección o contáctenos si necesita ayuda."
+
+#: framework/classes/themex.user.php:354
+msgid "This account is already in use"
+msgstr "Esta cuenta ya está en uso"
+
+#: framework/classes/themex.user.php:352
+msgid "This account is not activated"
+msgstr "Esta cuenta no está activada"
+
+#: framework/classes/themex.user.php:222
+msgid "This email is already in use"
+msgstr "Este correo electrónico ya está en uso"
+
+#: framework/classes/themex.core.php:759
+msgid "This image is too large for uploading."
+msgstr "Esta imagen es demasiado grande para subirla."
+
+#: framework/classes/themex.user.php:228
+msgid "This username is already taken"
+msgstr "Este nombre de usuario ya está en uso"
+
+#: framework/config.php:898
+msgid "Three Fourths"
+msgstr "Tres cuartos"
+
+#: framework/config.php:899
+msgid "Three Fourths Last"
+msgstr "Tres cuartos últimos"
+
+#: framework/config.php:2053
+msgid "Tiled"
+msgstr "Azulejos"
+
+#: framework/config.php:1132 framework/config.php:1203
+#: framework/config.php:1269 framework/classes/themex.interface.php:413
+#: framework/classes/widgets/themex.authors.php:80
+#: framework/classes/widgets/themex.comments.php:65
+#: framework/classes/widgets/themex.twitter.php:81
+msgid "Title"
+msgstr "Título"
+
+#: framework/config.php:1251
+msgid "Toggles"
+msgstr "Toggles"
+
+#: template-statistics.php:139 template-statistics.php:159
+#: woocommerce/cart/cart.php:25 woocommerce/checkout/review-order.php:14
+#: woocommerce/myaccount/my-orders.php:27
+#: woocommerce/order/order-details.php:38
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Total:"
+msgstr "Total:"
+
+#: framework/config.php:2007
+msgid "Tracking Code"
+msgstr "Codigo de localización"
+
+#: template-profile-links.php:42 framework/classes/themex.user.php:756
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: template-profile-links.php:26 framework/classes/themex.user.php:748
+msgid "Twitter"
+msgstr "Gorjeo"
+
+#: framework/config.php:896
+msgid "Two Thirds"
+msgstr "Dos tercios"
+
+#: framework/config.php:897
+msgid "Two Thirds Last"
+msgstr "Dos tercios ultimos"
+
+#: framework/config.php:967 framework/config.php:1190 framework/config.php:1256
+msgid "Type"
+msgstr "Tipo"
+
+#: woocommerce/checkout/thankyou.php:15
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Lamentablemente, su pedido no se puede procesar ya que el banco / "
+"comerciante originario ha rechazado su transacción."
+
+#: module-player.php:40
+msgid "Unmute"
+msgstr "No silenciar"
+
+#: module-form.php:25
+msgid "Unsubscribe Now"
+msgstr "Cancelar suscripción ahora"
+
+#: template-statistics.php:180 woocommerce/cart/cart.php:106
+msgid "Update"
+msgstr "Actualizar"
+
+#: framework/config.php:488
+msgid "Update Course Category"
+msgstr "Actualizar categoría de curso"
+
+#: framework/config.php:515
+msgid "Update Testimonial Category"
+msgstr "Actualizar Categoría de Testimonios"
+
+#: woocommerce/cart/shipping-calculator.php:62
+msgid "Update Totals"
+msgstr "Actualizar totales"
+
+#: woocommerce/checkout/payment.php:53
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: sidebar-profile-left.php:9
+msgid "Upload"
+msgstr "Subir"
+
+#: header.php:46 template-register.php:14 template-register.php:57
+#: template-statistics.php:18 template-statistics.php:67
+#: template-statistics.php:80 template-statistics.php:96
+#: framework/classes/themex.course.php:1256
+#: framework/classes/themex.course.php:1267
+#: woocommerce/global/form-login.php:19 woocommerce/myaccount/form-login.php:17
+#: woocommerce/myaccount/form-login.php:60
+#: framework/classes/widgets/themex.twitter.php:85
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: framework/config.php:1285
+msgid "Users"
+msgstr "Usuarios"
+
+#: framework/classes/themex.user.php:212
+msgid "Verification code is empty"
+msgstr "El código de verificación está vacío"
+
+#: framework/classes/themex.user.php:209
+msgid "Verification code is incorrect"
+msgstr "El código de verificación es incorrecto"
+
+#: framework/config.php:1194
+msgid "Vertical"
+msgstr "Vertical"
+
+#: framework/config.php:807 framework/classes/themex.interface.php:425
+msgid "Video"
+msgstr "Vídeo"
+
+#: module-form.php:29
+msgid "View Certificate"
+msgstr "Ver Certificado"
+
+#: framework/config.php:352
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: framework/config.php:377
+msgid "View Lesson"
+msgstr "Ver la lección"
+
+#: framework/config.php:326
+msgid "View Plan"
+msgstr "Ver Plan"
+
+#: framework/config.php:402
+msgid "View Quiz"
+msgstr "Ver prueba"
+
+#: framework/config.php:453
+msgid "View Slide"
+msgstr "Ver la diapositiva"
+
+#: framework/config.php:428
+msgid "View Testimonial"
+msgstr "Ver Testimonial"
+
+#: template-profile-links.php:74 framework/classes/themex.user.php:772
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/config.php:673
+msgid "Week"
+msgstr "Semana"
+
+#: framework/functions.php:616
+msgid "week"
+msgstr "semana"
+
+#: framework/config.php:881
+msgid "Width"
+msgstr "Anchura"
+
+#: framework/config.php:678
+msgid "Year"
+msgstr "Año"
+
+#: framework/functions.php:624
+msgid "year"
+msgstr "año"
+
+#: framework/classes/themex.lesson.php:323
+#, php-format
+msgid "You are required %d%% to pass this quiz."
+msgstr "Se requiere %d%% para pasar esta prueba."
+
+#: framework/classes/themex.form.php:364
+msgid "You have entered an invalid email address"
+msgstr "Has introducido una dirección de correo electrónico no válida"
+
+#: template-profile-links.php:66 framework/classes/themex.user.php:768
+msgid "YouTube"
+msgstr "Youtube"
+
+#: framework/config.php:1022
+msgid "Zoom"
+msgstr "Enfocar"
+
+#: template-register.php:36
+msgid "Agree terms"
+msgstr ""
+"Estoy de acuerdo con la <a href=\"/politica-de-privacidad-es\">política de "
+"privacidad de COS Formaciò</a>"
+
+#: content-course-grid.php:25
+msgid "Subscriber"
+msgstr "Socio/a"
+
+#: content-course-grid.php:34
+msgid "Customer"
+msgstr "No socio/a"
+
+#: template-register.php:40
+msgid "Confirm Subscriber"
+msgstr "Soy socio/a"
+
+#: register
+msgid "Please acept agree terms"
+msgstr "Tienes que aceptar nuestra politica de privacidad"
+
+#: register
+msgid "You must register to sign up for a course..."
+msgstr "Debes registrarte para apuntarte a un curso..."
+
+#: register
+msgid "...or enter your credentials"
+msgstr "...o identificarte"
+
+#: profile
+msgid "Other courses"
+msgstr "Otros cursos"

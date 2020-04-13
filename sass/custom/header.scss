@@ -1,0 +1,196 @@
+
+.site-header {
+
+	padding: 0.5em 1em;
+
+	.row {
+
+		box-sizing: border-box;
+		padding: 0;
+
+		.site-logo { 
+
+			width: 210px;
+			margin: 0 auto;
+
+			a {
+
+				img {
+
+					display: block;
+				}
+			}
+		}
+
+		.Polylangmenu,
+		.header-options,
+		.mobile-search-form {
+
+			vertical-align: middle;
+		}
+
+		.Polylangmenu,
+		.header-options {
+
+			margin-bottom: 10px;
+		}
+
+		.header-options {
+
+			.UserRole {
+
+				span.IsSoci {
+
+					font-size: 80%;
+					text-transform: uppercase;
+					font-weight: 700;
+				}
+			}
+		}
+		
+		.header-navigation ul {
+
+			margin: 0;
+		}
+
+		.header-navigation div > ul > li {
+
+			padding: 0;
+
+			& > a {
+			
+				line-height: 2.1em;
+			}
+		}
+
+		.select-menu {
+			
+			margin: 0;
+			
+			span {
+
+				min-width: 160px;				
+				padding: 0.3em 28px 0.3em 0.6em;
+			}
+		}
+
+		.search-form {
+			
+			margin: 0 0 0 5px;
+			background-position: right 3px center;
+
+			input {
+	
+				padding: 8px 30px 9px 5px;
+			}
+		}
+
+		.login-options {
+
+			margin: 0 0 0 0;
+
+			.login-button {
+
+				margin: 0;
+			}
+
+			.button-wrap {
+
+				margin: 0 0 0 5px;
+			}
+		}
+	}
+
+  .User {
+
+    position: fixed;
+    bottom: 31px;
+    right: 0;
+    text-align: right;
+    padding: 10px 10px 10px 17px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 22px 0 0 22px;
+    box-shadow: 0 0 6px #5d6e54;
+    font-size: 80%;
+    font-weight: 600;
+    color: #7f9474;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 1000px) {
+
+	.site-header {
+
+		.row {
+				width: 100%;
+		}
+	}
+}
+
+@media (max-width: 999px) and (min-width: 768px) {
+
+	.site-header {
+
+		.row {
+				width: 100%;
+		}
+	}
+}
+
+@media (max-width: 767px) {
+
+	.site-header {
+
+		padding: 1em 0 1em;
+		
+		.row {
+
+			.site-logo { 
+	
+				margin-bottom: 10px; 
+			}
+
+			.header-options {
+				
+				margin: 0 0 7px 0;
+				float: left;
+
+				.button-wrap {
+
+					margin: 0 5px 0 0;
+				}
+			}
+
+			.mobile-search-form {
+
+				margin: 7px 0;
+				clear: both;
+			}
+
+			.header-navigation {
+
+				.select-menu {
+
+					margin: 0;
+					width: 100%;
+					max-width: none;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 480px) {
+
+	.site-header {
+
+		.site-logo {
+
+			a {		
+
+				padding: 0 0 15%;
+			}
+		}
+	}
+}

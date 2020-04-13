@@ -1,0 +1,32 @@
+.user-profile {
+
+	h3.secondary.Others {
+
+		padding: 10px 0 0 0;
+		margin: 0;
+	}
+
+	.user-courses-listing.Others {
+
+		box-shadow: unset;
+		border: none;
+		background: none;
+		overflow: unset;
+
+		.course-preview + .course-preview {
+
+			margin-top: 20px;
+		}
+	}
+}
+
+@media (max-width: 767px) {
+
+	.user-profile {
+
+		.column {
+
+				margin: 0 0 1em 0;				
+		}
+	}
+}
