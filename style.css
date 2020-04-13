@@ -4005,6 +4005,10 @@ body.home .main-content {
   .site-header .site-logo a {
     padding: 0 0 15%; } }
 
+.sidebar.threecol.column.last .sidebar_shortcode {
+  margin: 0 0 10px 0;
+  font-size: 80%; }
+
 .PolylangMenu {
   float: right;
   list-style: none;
@@ -4239,3 +4243,4 @@ body.home .main-content {
     padding: 5px 10px;
     background-color: rgba(255, 255, 255, 0.5);
     color: #fff; }
+

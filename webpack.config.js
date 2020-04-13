@@ -6,30 +6,15 @@ const EventHooksPlugin = require('event-hooks-webpack-plugin');
 
 module.exports = {
   name: 'main',
-  entry: './scss/main.scss',
+  entry: './scss/custom/main.scss',
   output: {
-    path: 'E:\\playmotiv-cloud\\dev1.playmotiv.cloud\\wp-content\\themes\\trident\\'
+    path: 'C:\\trabajo\\cos\\web\\wp-content\\themes\\academy\\'
   },
   context: __dirname,
-  mode: 'production', // env == 'prod' ? 'production' : 'development',
+  mode: 'development', // env == 'prod' ? 'production' : 'development',
   devtool: 'none', // 'none' : 'source-map',
   module: {
     rules: [
-      {
-        test: /\.jsx?$/,
-        exclude: /node_modules/,
-        use: [          
-          { 
-            loader: 'babel-loader',
-            options: {
-              presets: [
-                '@babel/preset-env',
-                '@babel/preset-react'
-              ]
-            }
-          }
-        ]
-      },
       {
         test: /\.scss$/,
         exclude: /node_modules/,
@@ -38,7 +23,7 @@ module.exports = {
             loader: MiniCssExtractPlugin.loader
           },
           {
-            loader: 'css-loader'
+            loader: 'css-loader?url=false'
           },
           {
             loader: 'sass-loader'
@@ -52,26 +37,6 @@ module.exports = {
           'style-loader',
           'css-loader'
         ]
-      },
-      {
-        test: /\.(woff2?|ttf|otf|eot)$/,
-        exclude: /node_modules/,
-        loader: 'file-loader',
-        options: {
-          name: '[name].[ext]',
-          outputPath: '/fonts/',
-          publicPath: 'fonts/'
-        }
-      },
-      {
-        test: /\.(jpg|jpeg|png|gif|svg)$/,
-        exclude: /node_modules/,
-        loader: 'file-loader',
-        options: {
-          name: '[name].[ext]',
-          outputPath: '/assets/img/',
-          publicPath: '/'
-        }
       }
     ]
   },
@@ -79,9 +44,11 @@ module.exports = {
     new EventHooksPlugin({
         'done': () => {
 
+          /*
           const filename = path.join(__dirname, 'main.js');
           console.log(filename)
           fs.unlinkSync(filename)
+          */
         }
     }),
     new MiniCssExtractPlugin({
@@ -94,7 +61,7 @@ module.exports = {
       appendScriptTag: false
     })
   ],
-  resolve: {    
-    extensions: ['.js', '.jsx']
+  resolve: {
+    extensions: ['.scss']
   }
 }
